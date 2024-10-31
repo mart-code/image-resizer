@@ -25,11 +25,11 @@ An Electron.js desktop application that allows users to upload images, resize th
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mart-code/image-resizer-app.git
+   git clone https://github.com/mart-code/image-resizer.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd image-resizer-app
+   cd image-resizer
    ```
 3. Install the dependencies:
    ```bash
